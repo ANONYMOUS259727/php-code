@@ -18,7 +18,7 @@
                 <p>Go <a href="get.php">back</a> to the form</p>
 
                 <?php else: ?>
-                    <h1>Aatif</h1>
+                    <h1>Vishal sharma</h1>
                    <h2>Form Handling using get - Type in GET </h2>
 
                    <form action="get.php" method="GET">
