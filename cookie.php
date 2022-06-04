@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
 $cookie_name = "user";
-$cookie_value = "Aatif";
+$cookie_value = "Vishal sharma";
 setcookie($cookie_name, $cookie_value, time() + (86400), "/");
 ?>
 <html>
