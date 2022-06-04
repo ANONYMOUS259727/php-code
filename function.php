@@ -4,7 +4,7 @@ function greetings($festival = "Life")
 {
     echo "Wish you a very Happy $festival";
 }
-echo "Aatif<br>";
+echo "Vishal sharma<br>";
 echo "Hey Jai <br/>";
 greetings("Diwali");
 
