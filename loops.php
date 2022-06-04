@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="white" text="black">
 <?php  
-    echo"Aatif<br>";
+    echo"Vishal sharma<br>";
     echo"DO-WHILE LOOP<br>";
     $x = 1;  
     do 
