@@ -1,5 +1,5 @@
 <?php
-echo"Aatif<br>";
+echo"Vishal sharma<br>";
 $a=array("cat"=>10,"dog"=>12,"blue"=>11,"sky"=>14,"red"=>13);
 print_r(array_pad($a,7,"red"));
 echo"<br><br>";
